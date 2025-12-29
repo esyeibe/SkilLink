@@ -1,7 +1,7 @@
 # SkilLink
 
 [![Laravel](https://img.shields.io/badge/Laravel-12-red?logo=laravel)](https://laravel.com/)
-[![PHP](https://img.shields.io/badge/PHP-8.2-blue?logo=php)](https://www.php.net/)
+[![PHP](https://img.shields.io/badge/PHP-8.4-blue?logo=php)](https://www.php.net/)
 [![MySQL](https://img.shields.io/badge/MySQL-8.0-blue?logo=mysql)](https://www.mysql.com/)
 
 **Skillink** adalah platform yang menghubungkan penyedia keahlian atau layanan dengan klien potensial di sekitar mereka. Platform ini memudahkan individu berbakat untuk mempromosikan keahlian mereka, sekaligus membantu pengguna menemukan penyedia layanan yang terpercaya.
@@ -19,7 +19,7 @@
 
 ## Teknologi
 
--   **Backend:** Laravel 12 (PHP 8.2+)
+-   **Backend:** Laravel 12 (PHP 8.4+)
 -   **Database:** MySQL 8.0
 -   **Frontend:** Blade + Tailwind CSS
 -   **File Storage:** Laravel Storage (`public` disk)
