@@ -106,7 +106,7 @@ Skillink sudah menyiapkan dummy data untuk testing dan development:
 1. Jalankan seeder:
 
 ```bash
-Jalankan seeder:
+php artisan db:seed --class=SkillinkDemoSeeder
 ```
 
 2. Fitur dummy termasuk:
