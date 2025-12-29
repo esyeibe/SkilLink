@@ -1,3 +1,6 @@
 *
-!dummy/*
+
 !.gitignore
+
+!/dummy/
+!/dummy/*.jpg
